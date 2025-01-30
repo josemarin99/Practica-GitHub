@@ -1,4 +1,4 @@
-Git nuestro
+# Padre nuestro versión frikaza.
 
 *Git* nuestro que estás en los repos
 Comprimidos sean tus *commits*
